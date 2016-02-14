@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [jQuery Validation Plugin](http://jqueryvalidation.org/) - Form validation made easy
 ================================
 
@@ -63,3 +64,7 @@ See the [Contributing Guidelines](CONTRIBUTING.md) for details.
 ## License
 Copyright &copy; Jörn Zaefferer<br>
 Licensed under the MIT license.
+=======
+# jquery-validate
+This plugin validates HTML form with JQuery
+>>>>>>> 980d22ee91f71298bafb309f083c0a7eca92052d
